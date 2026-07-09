@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+    color: #333;
+}
+
+h1{
+    text-align: center;
+    color: rgb(62, 43, 4);
+}
+
+h2{
+    color: rgb(46, 16, 117);
+}
+
+p{
+    font-size: 16px;
+}
+
+ul,ol{
+    margin-left: 20px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ /* SOCIAL LINKS */
+        .social {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .social img {
+            width: 60px;
+            transition: transform 0.3s;
+        }
+
+        .social img:hover {
+            transform: scale(1.1);
+        }
